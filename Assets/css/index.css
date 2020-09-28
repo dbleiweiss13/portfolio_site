@@ -1,0 +1,30 @@
+.heroImg {
+    background-image: url('../images/AdobeStock_78952771.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(40vh - 156px);
+    width: 100vw;
+    margin: 0px;
+}
+
+.titleText {
+    margin-bottom: 30px;
+}
+
+.aboutTxt {
+    margin-bottom: 30px;
+    width: 80%;
+}
+
+.contentContainer {
+    height: 60vh;
+}
+
+.heroContent {
+    width: 100%;
+}
+
+footer{
+    height: 100px;
+}

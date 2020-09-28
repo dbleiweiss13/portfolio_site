@@ -1,0 +1,27 @@
+footer{
+    height: 100px;
+}
+
+section {
+    height: calc(100vh - 156px);
+}
+
+form {
+    height: calc(100vh - 156px);   
+}
+
+.contactImage {
+    background-image: url(../images/AdobeStock_78952771.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form > div,button {
+    width: 80%;
+}
+
+form > h1 {
+    margin-bottom: 50px;
+    width: 70%;
+}
